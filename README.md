@@ -1,1 +1,1 @@
-# Tarea_Programaci-n_no_lineal
+# Tarea_Programacion_no_lineal
