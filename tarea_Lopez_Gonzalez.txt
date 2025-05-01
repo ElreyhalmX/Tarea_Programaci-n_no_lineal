@@ -1,0 +1,35 @@
+ Ejemplo de salidas Hector Lopez 30594555,Diego Gonzalez 28249995
+
+Ejercicio 1:
+
+Inversión óptima en x: 0.6923
+Inversión óptima en y: 0.3077
+Rendimiento máximo: 0.0938
+
+
+Ejercicio 2:
+
+Producción óptima de A: 18.75
+Producción óptima de B: 31.25
+Producción óptima de C: 50.00
+Costo mínimo: 3906.25
+(se muestra gráfica de barras)
+
+
+Ejercicio 3:
+
+Valores después de 15 iteraciones:
+x: 1.0000, y: 1.0000, z: -1.9000
+Valor final de la función: 0.3900
+(se muestra gráfica de evolución)
+
+
+Ejercicio 4:
+
+Valor óptimo de x: 2.0000
+Valor mínimo de la función: 13.0000
+
+
+Ejercicio 5:
+
+(Un bloque explicativo sobre máximos, mínimos y puntos de inflexión)
